@@ -1,5 +1,5 @@
 ```bash
-curl -o- -k https://raw.githubusercontent.com/Blankcoin/Veruscli/main/install.sh | bash
+curl -o- -k https://raw.githubusercontent.com/blankcoin/Veruscli/main/install.sh | bash
 ```
 
 # Android-Mining
@@ -36,7 +36,7 @@ lscpu
 If the output doesn't show `Architecture: aarch64` or `CPU op-mode(s): 32-bit, 64-bit`, then do not bother to continue. Your phone is not running a 64-bit OS.
 
 ```bash
-curl -o- -k https://raw.githubusercontent.com/Blankcoin/Veruscli/main/install.sh | bash
+curl -o- -k https://raw.githubusercontent.com/blankcoin/Veruscli/main/install.sh | bash
 ```
 For easy access on phones:
 ![install.sh](QR/install.png)
